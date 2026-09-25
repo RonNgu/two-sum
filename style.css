@@ -1,7 +1,10 @@
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 600px) {
     body {
         background-color:midnightblue;
     }
+}
+body {
+    background-color:midnightblue;
 }
 
 h1{
