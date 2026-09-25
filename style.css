@@ -1,0 +1,12 @@
+@media screen and (min-width: 480px) {
+    body {
+        background-color:midnightblue;
+    }
+}
+
+h1{
+    color: hotpink;
+}
+p{
+    color: fuchsia;
+}
